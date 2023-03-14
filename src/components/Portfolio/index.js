@@ -3,37 +3,36 @@ import Project from "../Project";
 
 function Portfolio() {
 
-  // Replace links with deployed projects and GitHub repos
   const [projects] = useState([
     {
-      name: 'surf-report',
+      name: 'shoe-in-screenshot',
       description: 'MERN Stack',
-      link: "https://github.com",
-      repo: "https://github.com"
+      link: "https://shoe-in-188.herokuapp.com/",
+      repo: "https://github.com/OilPainter1/MERN-Ecommerce"
     },
     {
-      name: 'pastel-puzzels',
-      description: 'MERN Stack',
-      link: "https://github.com",
-      repo: "https://github.com"
+      name: 'shroomies-screenshot',
+      description: 'Node',
+      link: "https://shroomies.herokuapp.com/",
+      repo: "https://github.com/eric-simmons/shroomies"
     },
     {
-      name: 'run-buddy',
-      description: 'HTML/CSS',
-      link: "https://github.com",
-      repo: "https://github.com"
+      name: 'tech-blog-screenshot',
+      description: 'JavaScript/Cloudinary/Mysql2/Sequelize',
+      link: "https://github.com/kyle188/tech_blog",
+      repo: "https://github.com/kyle188/tech_blog"
     },
     {
-      name: 'led-wall',
-      description: 'Node/IoT',
-      link: "https://github.com",
-      repo: "https://github.com"
+      name: 'weather-dashboard-screenshot',
+      description: 'HTML/CSS/JS',
+      link: "https://kyle188.github.io/weather_dashboard/",
+      repo: "https://github.com/kyle188/weather_dashboard"
     },
     {
-      name: 'calculator',
-      description: 'React/JavaScript/CSS',
-      link: "https://github.com",
-      repo: "https://github.com"
+      name: 'coding-quiz-screenshot',
+      description: 'HTML/CSS/JS',
+      link: "https://kyle188.github.io/multiple-choice-coding-quiz/",
+      repo: "https://github.com/kyle188/multiple-choice-coding-quiz"
     },
   ]);
 

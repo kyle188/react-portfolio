@@ -1,11 +1,17 @@
 import React from 'react';
+import profileImage from "../assets/profile-image.jpg"
 
 function About() {
   return (
     <section className="my-5">
       <div className="my-2">
         <div className="profile-img my-5">
-        <i className="fas fa-user-circle" style={{ fontSize: "96px" }}></i>
+        <img
+                    src={profileImage}
+                    width={400}
+                    height={300}
+                    alt={"Profile-Image"}
+                  />
         </div>
         <p>
         Helvetica put a bird on it church-key Blue Bottle banjo bespoke brunch Etsy authentic Marfa quinoa typewriter plaid direct trade small batch wayfarers bicycle rights cliche craft beer gastropub single-origin coffee Godard Carles you probably haven't heard of them irony pickled kitsch synth sriracha gentrify literally heirloom blog Truffaut paleo scenester
