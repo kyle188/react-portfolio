@@ -3,6 +3,9 @@
   "version": "0.1.0",
   "homepage": "https://kyle188-portfolio.herokuapp.com/",
   "private": true,
+  "engines": {
+    "node": "16.17.1"
+  },
   "dependencies": {
     "concurrently": "^7.6.0",
     "gh-pages": "^5.0.0",
