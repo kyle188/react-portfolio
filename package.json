@@ -3,8 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "concurrently": "^7.6.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
+    "react-router-dom": "^6.9.0",
     "react-scripts": "4.0.1"
   },
   "scripts": {
@@ -32,7 +34,7 @@
     "@testing-library/jest-dom": "^5.8.0",
     "@testing-library/react": "^9.5.0"
   },
-  "description": "Being a web developer means being part of a community. You’ll need a place not only to share your projects while you're applying for jobs or working as a freelancer but also to share your work with other developers and collaborate on projects.",
+  "description": "Portfolio developed with React",
   "main": "index.js",
   "keywords": [],
   "author": "",
