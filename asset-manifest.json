@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.7971a1e6.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.409f3a6e.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.409f3a6e.chunk.js.map",
+    "runtime-main.js": "/react-portfolio/static/js/runtime-main.bdac3d3c.js",
+    "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.bdac3d3c.js.map",
+    "static/js/2.0a215ca5.chunk.js": "/react-portfolio/static/js/2.0a215ca5.chunk.js",
+    "static/js/2.0a215ca5.chunk.js.map": "/react-portfolio/static/js/2.0a215ca5.chunk.js.map",
+    "index.html": "/react-portfolio/index.html",
+    "static/css/main.7971a1e6.chunk.css.map": "/react-portfolio/static/css/main.7971a1e6.chunk.css.map",
+    "static/js/2.0a215ca5.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.0a215ca5.chunk.js.LICENSE.txt",
+    "static/media/calculator.jpg": "/react-portfolio/static/media/calculator.bb6f4d8d.jpg",
+    "static/media/coding-quiz-screenshot.jpg": "/react-portfolio/static/media/coding-quiz-screenshot.79785d39.jpg",
+    "static/media/cover-image.3f4b8a47.jpg": "/react-portfolio/static/media/cover-image.3f4b8a47.jpg",
+    "static/media/led-wall.jpg": "/react-portfolio/static/media/led-wall.c905c2d1.jpg",
+    "static/media/pastel-puzzels.jpg": "/react-portfolio/static/media/pastel-puzzels.5ff0a760.jpg",
+    "static/media/profile-image.4cb93921.jpg": "/react-portfolio/static/media/profile-image.4cb93921.jpg",
+    "static/media/run-buddy.jpg": "/react-portfolio/static/media/run-buddy.b57f2b88.jpg",
+    "static/media/shoe-in-screenshot.jpg": "/react-portfolio/static/media/shoe-in-screenshot.c8397438.jpg",
+    "static/media/shroomies-screenshot.jpg": "/react-portfolio/static/media/shroomies-screenshot.d1d18296.jpg",
+    "static/media/surf-report.jpg": "/react-portfolio/static/media/surf-report.6490cdfe.jpg",
+    "static/media/tech-blog-screenshot.jpg": "/react-portfolio/static/media/tech-blog-screenshot.7165618b.jpg",
+    "static/media/weather-dashboard-screenshot.jpg": "/react-portfolio/static/media/weather-dashboard-screenshot.2c160ffa.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bdac3d3c.js",
+    "static/js/2.0a215ca5.chunk.js",
+    "static/css/main.7971a1e6.chunk.css",
+    "static/js/main.409f3a6e.chunk.js"
+  ]
+}
