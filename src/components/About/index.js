@@ -13,12 +13,13 @@ function About() {
                     alt={"Profile-Image"}
                   />
         </div>
-        <p>
-        Helvetica put a bird on it church-key Blue Bottle banjo bespoke brunch Etsy authentic Marfa quinoa typewriter plaid direct trade small batch wayfarers bicycle rights cliche craft beer gastropub single-origin coffee Godard Carles you probably haven't heard of them irony pickled kitsch synth sriracha gentrify literally heirloom blog Truffaut paleo scenester
-        </p>
-        <p>
-        Echo Park sriracha Pinterest vegan biodiesel 90's irony iPhone Kickstarter Carles crucifix kitsch narwhal dreamcatcher pickled trust fund selvage art party letterpress Tumblr post-ironic kogi Thundercats Tonx Brooklyn Pitchfork Odd Future authentic normcore freegan leggings Schlitz chambray organic tousled retro fap squid street art church-key fashion axe Wes Anderson bespoke whatever gentrify banh mi you probably haven't heard of them American Apparel next level pug ugh.
-        </p>
+        <h2>
+          Hi, I'm Kyle.  I'm a Full Stack Developer who became interested in writing code while working on Unity game development tutorials.  The more I learned about coding the more intruiged I became.  I signed up for a Full Stack Web Development Bootcamp through the University of Wisconsin in 2022 and earned the course Certificate in 2023.  Through the bootcamp I studied many of the leading current technologies including Node.js, Express, jQuery, Handlebars, SQL, NoSQL, MongoDB, React, HTML, CSS, Javascript, C#, and Python.  
+        </h2>
+        <br></br>
+        <h2>
+        I have a passion for learning and I enjoy being creative.  I really enjoyed building applications and websites and making them user friendly.  Working on both front end and back end aspects has really helped me get an appreciation for all of the work that goes into a full stack application.  I also really enjoyed collaborating with other students on our group projects and found out just how much you can learn from fellow developers.  I look forward to new challenges and opportunities as I grow as a developer.
+        </h2>
       </div>
     </section>
   );
