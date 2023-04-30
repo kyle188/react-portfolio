@@ -360,6 +360,12 @@ textarea {
   cursor: default;
   text-shadow: 3px 3px 15px rgba(255,255,255, .5);
 }
+
+#contactInfo {
+  margin-top: -50px;
+  padding-bottom: 30px;
+}
+
 @media only screen and (max-width: 1440px) {
   nav {
     position: static;

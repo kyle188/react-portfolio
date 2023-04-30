@@ -41,7 +41,15 @@ function Contact() {
   };
 
   return (
-    <section>
+    <section className="my-5">
+      <div className="my-2" id="contactInfo">
+        <h2>
+          Email:  Kybar089@gmail.com<br></br>
+          GitHub:  <a href="https://github.com/kyle188"> github.com/kyle188</a>
+        </h2>
+      </div>
+
+    {/* // <section> */}
       <form id="contact-form" onSubmit={handleSubmit}>
         <div>
           <label htmlFor="name">Name:</label>
@@ -76,8 +84,9 @@ function Contact() {
           </div>
         )}
         <button type="submit">Submit</button>
-      </form>
-    </section>
+      </form> 
+      </section>
+ 
   );
 }
 
