@@ -370,10 +370,9 @@ textarea {
   nav {
     position: static;
     display: block;
-    z-index: 100;
+    z-index: 1000;
     margin: 0 10px;
     font-size: 2rem;
-    width: 100%;
   }
   header h1 {
     display: block;
