@@ -373,6 +373,7 @@ textarea {
     z-index: 100;
     margin: 0 10px;
     font-size: 2rem;
+    width: 100%;
   }
   header h1 {
     display: block;
